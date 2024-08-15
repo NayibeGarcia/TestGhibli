@@ -21,7 +21,7 @@ Este proyecto es una aplicación web desarrollada en VueJS que consume la API RE
 ## Ejecución en Localhost
 1. Inicia el servidor de desarrollo
     ```bash
-    npm run serve
+    npm run dev
 
 2. Abre tu navegador y navega a http://localhost:5173 para ver la aplicación en funcionamiento.
 
